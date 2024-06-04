@@ -1,0 +1,61 @@
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\appsettings.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\Dangaran-PokemonApplication.staticwebassets.runtime.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\Dangaran-PokemonApplication.exe
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\Dangaran-PokemonApplication.deps.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\Dangaran-PokemonApplication.runtimeconfig.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\Dangaran-PokemonApplication.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\bin\Debug\net8.0\Dangaran-PokemonApplication.pdb
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.AssemblyInfoInputs.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.AssemblyInfo.cs
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.csproj.CoreCompileInputs.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.RazorAssemblyInfo.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.RazorAssemblyInfo.cs
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.sourcelink.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets\msbuild.Dangaran-PokemonApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets\msbuild.build.Dangaran-PokemonApplication.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dangaran-PokemonApplication.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dangaran-PokemonApplication.props
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\scopedcss\bundle\Dangaran-PokemonApplication.styles.css
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\scopedcss\projectbundle\Dangaran-PokemonApplication.bundle.scp.css
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\refint\Dangaran-PokemonApplication.dll
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.pdb
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\Dangaran-PokemonApplication.genruntimeconfig.cache
+C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\obj\Debug\net8.0\ref\Dangaran-PokemonApplication.dll
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\appsettings.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\Dangaran-PokemonApplication.staticwebassets.runtime.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\Dangaran-PokemonApplication.exe
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\Dangaran-PokemonApplication.deps.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\Dangaran-PokemonApplication.runtimeconfig.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\Dangaran-PokemonApplication.dll
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\bin\Debug\net8.0\Dangaran-PokemonApplication.pdb
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.AssemblyInfo.cs
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.RazorAssemblyInfo.cache
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.RazorAssemblyInfo.cs
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets\msbuild.Dangaran-PokemonApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets\msbuild.build.Dangaran-PokemonApplication.props
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dangaran-PokemonApplication.props
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dangaran-PokemonApplication.props
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\scopedcss\bundle\Dangaran-PokemonApplication.styles.css
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\scopedcss\projectbundle\Dangaran-PokemonApplication.bundle.scp.css
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.dll
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\refint\Dangaran-PokemonApplication.dll
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.pdb
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\Dangaran-PokemonApplication.genruntimeconfig.cache
+C:\Users\STUDENT\Downloads\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2-main\obj\Debug\net8.0\ref\Dangaran-PokemonApplication.dll

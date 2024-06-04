@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dangaran-PokemonApplication.props" />
+</Project>

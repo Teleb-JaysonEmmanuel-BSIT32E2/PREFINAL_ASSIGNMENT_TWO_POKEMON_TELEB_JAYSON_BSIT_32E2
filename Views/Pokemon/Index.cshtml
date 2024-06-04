@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Dangaran_PokemonApplication.Models.Pokemon>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>PokemonApplication</title>
+    <link rel="stylesheet" type="text/css" href="~/css/site.css" />
+</head>
+<body>
+    <div class="header">
+        <img src="~/images/pokemon-logo.png" alt="Pokémon Logo" style="height: 120px;" />
+        <div class="navbar">
+        </div>
+    </div>
+    <div class="content">
+        <h2>Pokemon List</h2>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var pokemon in Model)
+                {
+                    <tr>
+                        <td>
+                            <a class="pokemon-name" href="@Url.Action("Details", "Pokemon", new { name = pokemon.Name })">
+                                @pokemon.Name
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="pagination">
+            <a href="@Url.Action("Index", "Pokemon", new { page = ViewBag.Page - 1 })">Previous</a>
+            <span>@ViewBag.Page</span>
+            <a href="@Url.Action("Index", "Pokemon", new { page = ViewBag.Page + 1 })">Next</a>
+        </div>
+    </div>
+</body>
+</html>
